@@ -48,7 +48,7 @@ export const PRODUCTS: Product[] = [
       en: ['Up to 60% Energy Saving', 'Turbo Cooling', 'Plasma Air Purifying Filter'],
     },
     type: 'Split',
-    image: 'https://images.unsplash.com/photo-1631548231169-e0aa0b39b32b?auto=format&fit=crop&q=80&w=600',
+    image: 'https://tse2.mm.bing.net/th/id/OIP.C7_tnfUKlzguPj73oul_dgHaNy?rs=1&pid=ImgDetMain&o=7&rm=3',
   },
   {
     id: 'split-2',
@@ -60,7 +60,7 @@ export const PRODUCTS: Product[] = [
       en: ['Authentic Japanese Build', 'Smart Motion Sensor', 'Automatic Self-Cleaning'],
     },
     type: 'Split',
-    image: 'https://images.unsplash.com/photo-1591189863430-ab87e120f312?auto=format&fit=crop&q=80&w=600',
+    image: 'https://5.imimg.com/data5/SELLER/PDFImage/2023/6/316732525/LJ/SU/JW/11095590/2-ton-mitsubishi-split-air-conditioner--1000x1000.png',
   },
   {
     id: 'split-3',
@@ -72,7 +72,7 @@ export const PRODUCTS: Product[] = [
       en: ['Extreme Ambient Cooling', 'Anti-Corrosion Protection', 'Hidden Digital Display'],
     },
     type: 'Split',
-    image: 'https://images.unsplash.com/photo-1544161515-436cefd1f16d?auto=format&fit=crop&q=80&w=600',
+    image: '',
   },
   {
     id: 'window-1',
@@ -84,7 +84,7 @@ export const PRODUCTS: Product[] = [
       en: ['Dual Inverter Compressor', 'Fast & Stable Cooling', 'Easy to Maintain'],
     },
     type: 'Window',
-    image: 'https://images.unsplash.com/photo-1406691453272-9ad282701f9d?auto=format&fit=crop&q=80&w=600',
+    image: 'https://tse1.mm.bing.net/th/id/OIP.mibSwSxv68_8X08oiMDqOAHaKd?rs=1&pid=ImgDetMain&o=7&rm=3',
   },
   {
     id: 'window-2',
