@@ -108,7 +108,7 @@ export const PRODUCTS: Product[] = [
       en: ['Long-Distance Airflow', 'Precise Smart Control', 'Luxury Slim Design'],
     },
     type: 'Tower',
-    image: 'https://images.unsplash.com/photo-1581092160562-40aa08e78837?auto=format&fit=crop&q=80&w=600',
+    image: 'https://5.imimg.com/data5/UD/UI/NX/SELLER-4505843/daikin-tower-ac-500x500.jpg'
   },
   {
     id: 'tower-2',
@@ -120,7 +120,7 @@ export const PRODUCTS: Product[] = [
       en: ['3D Air Distribution', 'LED Display Screen', 'Modern Attractive Design'],
     },
     type: 'Tower',
-    image: 'https://images.unsplash.com/photo-1595152772835-219674b2a8a6?auto=format&fit=crop&q=80&w=600',
+    image: 'https://5.imimg.com/data5/SELLER/Default/2022/6/WU/OX/XD/9729980/haier-4-0-tr-inverter-tower-ac-1000x1000.png',
   },
 ];
 
