@@ -209,7 +209,7 @@ export default function App() {
           >
             <div className="aspect-square relative rounded-[4rem] overflow-hidden shadow-2xl">
               <img 
-                src="https://images.unsplash.com/photo-1541888941293-1e8fbfefe3a4?auto=format&fit=crop&q=80&w=1200" 
+                src="https://scontent.flhe38-1.fna.fbcdn.net/v/t39.30808-6/482346659_1062128559267489_7182872871374347388_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=13d280&_nc_ohc=vA624CDHmdwQ7kNvwHxADuU&_nc_oc=AdqQU1Et3EFk9-sGENxtzMhzTHLZvS3wf9SyhAoD9VIKU5a96lItgSGbxp2EkHMnWH4&_nc_zt=23&_nc_ht=scontent.flhe38-1.fna&_nc_gid=etxnpRVUxwn3Vnp98oa7gA&_nc_ss=7b2a8&oh=00_Af7pSvDaQlaFZNwm7-M0LblzfVzN7LnaMU13qx9GJE_SBQ&oe=6A060386" 
                 className="w-full h-full object-cover" 
                 alt="AC Professional Work"
                 referrerPolicy="no-referrer"
